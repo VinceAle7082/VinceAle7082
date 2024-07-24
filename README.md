@@ -1,4 +1,4 @@
-***Hey all, Vincenzo Aleksey Brocato here!***
+**Hey all, Vincenzo Aleksey Brocato here!**
 <hr>
 
 *Here are some things about me:* 
@@ -6,7 +6,7 @@
   -  *My mail is vinceale7082@gmail.com*
   -  *I'm looking to collaborate with people on a hobby project (XanvicOS).
   -  *Pronouns: he/him.*
-  -  *Fun fact: I'm Italian (incredible, idk what to write).*
+  -  *Fun fact: I'm Italian (incredible, yeah? Idk what to write).*
 
 
 <!--
