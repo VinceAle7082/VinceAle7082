@@ -5,7 +5,7 @@
   -  *I'm currently interested in operative system developement.*
   -  *My mail is vinceale7082@gmail.com*
   -  *I'm looking to collaborate with people on a hobby project called XanvicOS, an operative system created just to explore operative system developement, and for fun!*
-  -  *Fun fact: I'm Italian (incredible, yeah? Idk what to write).*
+  -  *Fun fact: I'm Italian and an Ace Attorney fan (incredible, yeah? Idk what to write).*
 
 
 <!--
