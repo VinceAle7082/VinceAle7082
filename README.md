@@ -14,13 +14,14 @@ I'm using a Raspberry Pi 5 4GB to host my projects. I have a domain at is-a.dev 
 ## My projects
 Here are my projects:
   * [XanvicOS](https://vinceale7082.is-a.dev:3000/VinceAle7082/XanvicOS)   (In Developement...);
-  * [Website](https://vinceale7082.is-a.dev)  (Finished, someday I'll add CSS);
+  * [Website](https://vinceale7082.is-a.dev:3000/VinceAle7082/Website)  (Finished, someday I'll add CSS);
   * SunshineWM (Not Started);
 
 ## Some info
 Here some of my info:
   * [GitHub Account](https://github.com/VinceAle7082)
   * [Gitea Account](https://vinceale7082.is-a.dev:3000/VinceAle7082)
+  * [Website](https://vinceale7082.is-a.dev)
   * [Primary email](mailto:vinceale7082@vinceale7082.is-a.dev)
   * [Secondary email](mailto:vinceale7082@gmail.com)
   * [Telegram account](https://t.me/vinceale7082)
