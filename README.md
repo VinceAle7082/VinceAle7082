@@ -1,6 +1,6 @@
-# **Hey all, Vincenzo Aleksey Brocato here!**
+# Hey all, Vincenzo Aleksey Brocato here!
 
-## *Here are some things about me:*
+## Here are some things about me:
   -  *I'm currently interested in operative system developement and networking.*
   -  *Pronouns: he/him.*
   -  *My mail is vinceale7082@vinceale7082is-a.dev is my commit email, but you can reach me out at vinceale7082@gmail.com*
