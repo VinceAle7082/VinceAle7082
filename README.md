@@ -14,5 +14,5 @@ I'm using a Raspberry Pi 5 4GB to host my projects. I have a domain at is-a.dev 
 ## My projects
 Here are my projects:
   * [XanvicOS](https://vinceale7082.is-a.dev:3000/VinceAle7082/XanvicOS)   (In Developement...);
-  * [Website](https://vinceale7082.is-a.dev)  (Finished);
+  * [Website](https://vinceale7082.is-a.dev)  (Finished, someday I'll add CSS);
   * SunshineWM (Not Started);
