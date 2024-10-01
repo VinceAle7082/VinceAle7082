@@ -9,7 +9,7 @@
 
 # Who am I?
 Hi, I'm just an italian student that likes Ace Attorney and codes, because he likes to do it.
-I'm using a Raspberry Pi 5 4GB to host my projects. I have a domain at is-a.dev and I don't know what else to write.
+I'm using a Raspberry Pi 5 4GB to host my projects. I have a free domain at is-a.dev and I don't know what else to write about me.
 
 ## My projects
 Here are my projects:
