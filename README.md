@@ -1,7 +1,7 @@
 # Hey all, Vincenzo Aleksey Brocato here!
 
 ## Here are some things about me:
-  * *I'm currently interested in operative system developement and networking.*
+  * *I'm currently interested in operative system developement, self-hosting and networking.*
   * *Pronouns: he/him.*
   * *[vinceale7082@vinceale7082is-a.dev](mailto:vinceale7082@vinceale7082.is-a.dev) is my commit email, but you can reach me out at [vinceale7082@gmail.com](mailto:vinceale7082@gmail.com)*
   * *I'm looking to collaborate with people on a hobby project called XanvicOS, an OS created just to explore operative system developement, and for fun!*
