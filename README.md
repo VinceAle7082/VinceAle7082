@@ -17,7 +17,7 @@ Here are my projects:
   * [Website](https://vinceale7082.is-a.dev:3000/VinceAle7082/Website)  (Almost finished, one day I'll add CSS);
   * SunshineWM (Not Started, I'll start it after writing video drivers);
 
-## Some info
+## Some contact info
 Here some of my info:
   * [GitHub Account](https://github.com/VinceAle7082)
   * [Gitea Account](https://vinceale7082.is-a.dev:3000/VinceAle7082)
