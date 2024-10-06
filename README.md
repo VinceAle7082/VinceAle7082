@@ -8,8 +8,8 @@
   * *Fun fact: I'm Italian, an Ace Attorney fan and a student (incredible, yeah? Idk what to write).*
 
 # Who am I?
-Hi, I'm just an italian student that likes Ace Attorney and codes, because he likes to do it.
-I'm using a Raspberry Pi 5 4GB to host my projects. I have a free domain at is-a.dev and I don't know what else to write about me.
+Hi, I'm just an italian student that likes the Ace Attorney series and codes, because he likes it and has time to do it.
+I'm using a Raspberry Pi 5 4GB to host my projects. I have a free domain at is-a.dev and I don't know what else to write about me and what I'm using.
 
 ## My projects
 Here are my projects:
