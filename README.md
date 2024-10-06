@@ -15,7 +15,7 @@ I'm using a Raspberry Pi 5 4GB to host my projects. I have a free domain at is-a
 Here are my projects:
   * [XanvicOS](https://vinceale7082.is-a.dev:3000/VinceAle7082/XanvicOS)   (In Developement...);
   * [Website](https://vinceale7082.is-a.dev:3000/VinceAle7082/Website)  (Almost finished, one day I'll add CSS);
-  * SunshineWM (Not Started);
+  * SunshineWM (Not Started, I'll start it after writing video drivers);
 
 ## Some info
 Here some of my info:
